@@ -1,7 +1,8 @@
 ---
 title: "About"
-date: 2019-04-19T21:37:58+05:30
+date: 2023-05-28T21:37:58+05:30
 type: "page"
 ---
 
-This is some static page where you can write about yourself.
+Hi, Nice to see you again. You met me at the library. Here are my recommendations on what to read, movies to watch. 
+Don't take my recommendations literally. See if you have the same taste as me. 
