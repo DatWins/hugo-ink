@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://feed-my-mind.netlify.app/"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "Reflections, Suggestions, and Recommendations from insider at the SD County LibraryTechnician"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -49,11 +49,6 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/knadh/hugo-ink"
 
 [[params.social]]
 name = "RSS"
