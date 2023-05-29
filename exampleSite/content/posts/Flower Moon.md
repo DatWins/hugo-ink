@@ -1,6 +1,7 @@
 ---
 title: "My current reading - Killers of the Flower Moon"
 date: 2023-05-28
+draft: true
 tags: [Non-Fiction]
 ---
 
