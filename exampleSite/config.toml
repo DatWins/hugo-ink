@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "Reflections, Suggestions, and Recommendations from insider at the SD County LibraryTechnician"
+	subtitle = "Reflections, Suggestions, and Recommendations from that library guy"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
