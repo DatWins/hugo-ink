@@ -14,7 +14,8 @@ pygmentscodefencesguesssyntax = true
 	subtitle = "Reflections, Suggestions, and Recommendations from that library guy"
 
 	# Optional 64x64 avatar image.
-	avatar = /images/can i help you.png
+	avatar = {{ $image := resources.Get "/images/can i help you.png" }}
+
 	
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
