@@ -1,6 +1,6 @@
 baseURL = "https://feed-my-mind.netlify.app/"
 languageCode = "en-us"
-title = "Ink"
+title = "Since You Asked..."
 theme = "ink"
 paginate = 5
 
